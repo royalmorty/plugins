@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	github.com/golang/protobuf v1.5.4
-	github.com/micro/plugins/v5/client/grpc v1.1.0
-	github.com/micro/plugins/v5/transport/grpc v1.1.0
+	github.com/micro/plugins/v5/client/grpc v1.0.2
+		github.com/micro/plugins/v5/transport/grpc v1.0.2
 	go-micro.dev/v5 v5.2.0
 	golang.org/x/net v0.23.0
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4
